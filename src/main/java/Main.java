@@ -18,5 +18,10 @@ class Main {
     char copyrightSymbol = '\u00A9';
 
     System.out.println("This is the copyright symbol: " + copyrightSymbol);
+
+    int num1 = 7;
+    double num2 = num1;
+
+    System.out.println(num2);
   }
 }

@@ -6,3 +6,4 @@
   - Decimal
   - Booleans
   - Characters
+  - Double to Integer
