@@ -3,3 +3,4 @@
 - Variables
 - DataTypes
   - Interger
+  - Decimal
