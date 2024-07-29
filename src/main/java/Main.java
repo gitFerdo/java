@@ -19,8 +19,8 @@ class Main {
 
     System.out.println("This is the copyright symbol: " + copyrightSymbol);
 
-    int num1 = 7;
-    double num2 = num1;
+    double num1 = 7.4;
+    int num2 = (int)num1;
 
     System.out.println(num2);
   }

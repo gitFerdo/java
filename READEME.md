@@ -7,3 +7,4 @@
   - Booleans
   - Characters
   - Double to Integer
+  - Integer to Double
