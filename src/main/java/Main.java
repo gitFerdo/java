@@ -13,5 +13,10 @@ class Main {
     // booleans
     boolean isWeekend = false;
     boolean isWorkday = true;
+
+    // characters
+    char copyrightSymbol = '\u00A9';
+
+    System.out.println("This is the copyright symbol: " + copyrightSymbol);
   }
 }
