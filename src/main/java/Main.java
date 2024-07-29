@@ -9,5 +9,9 @@ class Main {
     // decimals
     double aDouble = 1.79769313; // 4.9E-324 to 1.7976931348623157E308
     float aFloat = 3.4028F; // 1.4E-45 to 3.4028235E38
+
+    // booleans
+    boolean isWeekend = false;
+    boolean isWorkday = true;
   }
 }

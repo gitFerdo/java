@@ -4,3 +4,4 @@
 - DataTypes
   - Interger
   - Decimal
+  - Booleans
