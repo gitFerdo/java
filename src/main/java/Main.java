@@ -1,11 +1,10 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world");
-  }
-}
+  
+    int age = 30;
 
-class AnotherClass {
-  public static void main(String[] args) {
-    System.out.println("Hello world");
+    age = 24;
+
+    System.out.println("I am " + age + " years old.");
   }
 }
